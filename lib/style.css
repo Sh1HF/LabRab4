@@ -1,3 +1,18 @@
 h1 {
-    color: red;
+    color: rgb(83, 83, 83);
+}
+a {
+    font-size: 14pt;
+    color: rgb(180, 180, 180);
+    font-family:sans-serif;
+}
+p{
+    font-size: 14pt;
+    color: rgb(180, 180, 180);
+    font-family:sans-serif;
+}
+body{
+    background: #4077a6;
+    background: -webkit-linear-gradient(0deg, #4077a6 0%, #ab4f89 100%);
+    background: linear-gradient(0deg, #4077a6 0%, #ab4f89 100%);
 }
